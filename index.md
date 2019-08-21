@@ -2,7 +2,7 @@
 title: DCB
 banner_image: "/uploads/2019/08/21/dcb-cong5.jpeg"
 layout: landing-page
-heading: împreună solidari
+heading: Diaspora Civică Berlin
 partners: []
 services:
 - description: Performing collaborative research and providing services to support
@@ -13,7 +13,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: ''
+sub_heading: împreună solidari
 textline: ''
 hero_button:
   text: Learn more
