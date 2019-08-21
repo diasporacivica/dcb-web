@@ -1,8 +1,8 @@
 ---
-title: Home
+title: DCB
 banner_image: "/uploads/2019/08/21/dcb-cong5.jpeg"
 layout: landing-page
-heading: Diaspora Civică Berlin
+heading: împreună solidari
 partners: []
 services:
 - description: Performing collaborative research and providing services to support
