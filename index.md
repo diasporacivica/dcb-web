@@ -16,7 +16,7 @@ services:
 sub_heading: împreună solidari
 textline: ''
 hero_button:
-  text: Learn more
+  text: Cine suntem?
   href: "/about"
 show_news: true
 show_staff: false
